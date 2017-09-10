@@ -1,0 +1,6 @@
+*.zip
+/node_modules/
+/test/
+/test2/
+/type/
+/onetest/
