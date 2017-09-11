@@ -137,7 +137,7 @@ function findSync(startPath) {
 }
 
 
-/*testFiles('C:/Users/Administrator/Desktop/杂').then(()=>{
+/*testFiles('\\\\192.168.1.103\\tzuser\\www\\tumblr\\files\\terencezheng').then(()=>{
   console.log('完成')
 })*/
 const rl = readline.createInterface({

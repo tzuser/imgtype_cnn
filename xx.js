@@ -193,7 +193,7 @@ const startTest = async (testPath) => {
     }
     try{
       let nums=new Array(dirlist.length);
-      for(let n=0;n<10000;n++){
+      for(let n=0;n<40000;n++){
         for(let i=0;i<dirlist.length;i++){
           var len=dirlist[i].length;
           nums[i]=nums[i]>=0?nums[i]+1:0
